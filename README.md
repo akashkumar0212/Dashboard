@@ -1,3 +1,16 @@
+packages 
+
+all material ui packages
+@mui/x-data-grid 
+@mui/icons-material
+react-router-dom@6
+formik
+yup
+npm i  @fullcalendar/core  @fullcalendar/daygrid  @fullcalendar/timegrid  @fullcalendar/list 
+npm i @nivo/geo @nivo/line @nivo/bar @nivo/pie
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
